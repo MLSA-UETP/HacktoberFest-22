@@ -14,6 +14,12 @@ A Repository to celebrate the real essence of Hacktoberfest, empowering develope
             <sub><b>Hamas Ur Rehman</b></sub>
         </a>
     </td>
-   </tr>
+    <td align="center">
+        <a href="https://github.com/WaliyaRizwan">
+            <img src="https://avatars.githubusercontent.com/u/116026957?v=4" width="100;" alt="WaliyaRizwan"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
 </table>
 <!-- readme: contributors -end -->
