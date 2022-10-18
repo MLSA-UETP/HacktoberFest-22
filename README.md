@@ -3,7 +3,7 @@
 # HacktoberFest-22
 A Repository to celebrate the real essence of Hacktoberfest, empowering developers, designers &amp; content writers. Come and join us by contributing to the repository.
 
-
+# Opensource Contributors
 <!-- readme: contributors -start -->
 <table>
 <tr>
@@ -14,12 +14,6 @@ A Repository to celebrate the real essence of Hacktoberfest, empowering develope
             <sub><b>Hamas Ur Rehman</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/WaliyaRizwan">
-            <img src="https://avatars.githubusercontent.com/u/116026957?v=4" width="100;" alt="WaliyaRizwan"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td></tr>
+   </tr>
 </table>
 <!-- readme: contributors -end -->
