@@ -2,6 +2,9 @@
 
 # HacktoberFest-22
 A Repository to celebrate the real essence of Hacktoberfest, empowering developers, designers &amp; content writers. Come and join us by contributing to the repository.
+<p align="center">
+    <img src="https://github.com/MLSA-UETP/HacktoberFest-22/blob/main/Hfest-Logo-2-Color-Manga.svg" alt="Hacktoberfest-2020 Logo" width="350">
+</p>
 
 # Opensource Contributors
 <!-- readme: contributors -start -->
