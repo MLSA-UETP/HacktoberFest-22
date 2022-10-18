@@ -49,5 +49,17 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
 </table>
 <!-- readme: contributors -end -->
 
+<br>
+<br>
+
+# Opensource Repo Goals
+
+This Repository aims to educate students on opesource contributions and various ways people can come together as a community to contribute either code or non code. This repository is being maintained by the Microsoft Learn Student Ambassadors UET Peshawar team.
+<br>
+<br>
+
+<img align="left" src="white text uet mlsa.png" alt="mlsa_logo" width="150"/> 
+<img align="left" src="MSLearn_SA_badge_generic_rgb_300ppi.png" alt="mlsa_logo" width="150"/> 
+
 
 
