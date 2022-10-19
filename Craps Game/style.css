@@ -1,0 +1,33 @@
+#body{
+    background-color: rgb(52, 68, 87);
+}
+
+.container{
+    background-color: rgb(251, 241, 154);
+    margin-top: 38px;
+    border: 2px solid rgb(149, 3, 24);
+    border-radius: 30px;
+    padding-bottom: 30px;
+    box-shadow: 2px 3px 2px 3px rgb(149, 3, 24);
+   
+    
+}
+.container2{
+    background-color: rgb(149, 3, 24);
+    margin-left: 29%;
+    width: 500px;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 25px;
+    display: inline-block;  
+    color: white;    
+   
+}
+.container2:hover{
+    opacity: 2;
+    box-shadow: 3px 2px 3px 2px black;
+    pointer-events: visible;
+}
+#rules{
+    font-weight: bold;
+}

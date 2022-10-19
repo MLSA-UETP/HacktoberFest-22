@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="./style.css">
+    <!-- Bootstrap CSS v5.2.0-beta1 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"  integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+  </head>
+  <body id="body">
+    <div class="container">
+            <h1 class="display-3 text-center" id="head">Craps Game</h1><hr>
+                
+        <div  id="rules">
+            <h2 style="color: indianred">Rules for the Game of Craps (dice game)</h2>
+            <ul>
+                <li>Roll two dice.</li>
+                <li>If the sum of the dice is 7 or 11 on the first throw, you win.</li>
+                <li>If the sum of the dice is 2, 3, or 12 on the first throw, you lose.</li>
+                <li>If the sum of the dice is 4, 5, 6, 8, 9, or 10 on the first throw, you can roll the dice again.</li>
+                <li>If you roll the same number you rolled for the point, you win.</li>
+                <li>If you roll a 7 before rolling the same number, you lose.</li>
+            </ul>
+        </div> <br>
+        <div class="container2 text-center">
+            <div id="img_container" class="mt-4">
+            
+            </div><br><br><br>
+            <div id="result">
+            <h4>Points : <span id="points"></span></h4>
+            <h5 id="message">Please roll a dice</h5>
+            </div><br><br>
+            <button id="roll_button" class="btn btn-outline-success btn-lg">Roll</button>
+    </div>
+</div>
+    
+    
+
+
+
+    <script src="./craps.js" type="text/JavaScript"></script>
+    <!-- Bootstrap JavaScript Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
+  </body>
+</html>
