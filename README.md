@@ -31,28 +31,41 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
 # Opensource Contributors
 <!-- readme: contributors -start -->
 <table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Hamas-ur-Rehman">
-            <img src="https://avatars.githubusercontent.com/u/47780362?v=4" width="100;" alt="Hamas-ur-Rehman"/>
-            <br />
-            <sub><b>Hamas Ur Rehman</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AkramUllahKhan">
-            <img src="https://avatars.githubusercontent.com/u/90589314?v=4" width="100;" alt="AkramUllahKhan"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/WaliyaRizwan">
-            <img src="https://avatars.githubusercontent.com/u/116026957?v=4" width="100;" alt="WaliyaRizwan"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td></tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Hamas-ur-Rehman">
+                <img src="https://avatars.githubusercontent.com/u/47780362?v=4" width="100;" alt="Hamas-ur-Rehman"/>
+                <br />
+                <sub><b>Hamas Ur Rehman</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/AkramUllahKhan">
+                <img src="https://avatars.githubusercontent.com/u/90589314?v=4" width="100;" alt="AkramUllahKhan"/>
+                <br />
+                <sub><b>Null</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/WaliyaRizwan">
+                <img src="https://avatars.githubusercontent.com/u/116026957?v=4" width="100;" alt="WaliyaRizwan"/>
+                <br />
+                <sub><b>Null</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/aimalexe" >
+                <img 
+                    src="https://avatars.githubusercontent.com/u/94559553?v=4"
+                    width="100;" alt="Aimal Khan"
+                />
+                <br />
+                <sub>
+                    <strong>Aimal Khan</strong>
+                </sub>
+            </a>
+        </td>
+    </tr>
 </table>
 <!-- readme: contributors -end -->
 
