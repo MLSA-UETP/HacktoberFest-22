@@ -59,7 +59,15 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
             <br />
             <sub><b>WaliyaRizwan</b></sub>
         </a>
-    </td></tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aimalexe">
+            <img src="https://avatars.githubusercontent.com/u/94559553?v=4" width="100;" alt="Aimalexe"/>
+            <br />
+            <sub><b>aimalexe</b></sub>
+        </a>
+    </td>
+    </tr>
 </table>
 <!-- readme: contributors -end -->
 
