@@ -1,0 +1,16 @@
+$primary : #129c85 ; 
+$secondary: #576182;
+$success: rgb(6, 177, 6);
+$warning: rgb(201, 173, 13);
+
+@import "../../node_modules/bootstrap/scss/_functions";
+@import "../../node_modules/bootstrap/scss/_variables";
+
+$custom-theme-colors : (
+    "gradient_1": #1fc5a8,
+    "gradient_2": #576182 ,
+);
+
+
+$theme-color : map-merge($custom-theme-colors, $theme-colors);
+@import "../../node_modules/bootstrap/scss/bootstrap";
