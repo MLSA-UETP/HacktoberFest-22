@@ -1,0 +1,11 @@
+.navbar-nav{
+    
+    font-weight: bold;
+    color: white
+
+
+}
+.navbar-nav > Link{
+    padding-left:30px;
+    padding-right:30px;
+  }
