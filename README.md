@@ -47,6 +47,13 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Mosaddiq-Billah">
+            <img src="https://avatars.githubusercontent.com/u/75493489?v=4" width="100;" alt="Mosaddiq-Billah"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/aimalexe">
             <img src="https://avatars.githubusercontent.com/u/94559553?v=4" width="100;" alt="aimalexe"/>
             <br />
@@ -66,7 +73,8 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
             <br />
             <sub><b>Tameem Ud Din</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/WaliyaRizwan">
             <img src="https://avatars.githubusercontent.com/u/116026957?v=4" width="100;" alt="WaliyaRizwan"/>
