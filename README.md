@@ -50,7 +50,7 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         <a href="https://github.com/Mosaddiq-Billah">
             <img src="https://avatars.githubusercontent.com/u/75493489?v=4" width="100;" alt="Mosaddiq-Billah"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Mosaddiq Billah</b></sub>
         </a>
     </td>
     <td align="center">
