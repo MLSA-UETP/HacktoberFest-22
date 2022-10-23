@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS v5.2.0-beta1 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"  integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <style>
+        #head1{
+            background-color: rgb(123, 48, 86);
+            color: white;
+            font-weight: bolder;
+            padding: 20px;
+        }
+        #guess{
+            /* font-weight: bold; */
+            color: white;
+        }
+        #screen{
+            height: 90px;
+            width: 650px;
+          font-size: 70px;    
+          border: 6px solid rgb(20, 114, 125) ; 
+          border-radius: 10px; 
+           
+        }
+        #mainDiv{
+          border: 1px solid rgb(148, 100, 124);
+          border-radius: 25px;
+          margin-top: 20px;
+        }
+        h1, div#main{
+          border: 1px solid ;
+          border-radius: 25px;
+        }
+        .para{
+          font-weight: bold;
+          color: white;
+          font-size: large;
+          
+        }
+        #btn{
+          background-color: rgb(255, 255, 0);
+          width: 210px;
+          height: 50px;
+          border: rgb(255, 255, 0);
+          border-radius: 30px;
+          font-size: 25px;
+          font-weight: bold;
+        }
+        #main{
+          height: 500px;
+
+        }
+
+    </style>
+  </head>
+  <body>
+    <div class="container p-4" id="mainDiv">
+      <h1 class="display-5 text-center" id="head1">Number Guessing Game</h1>
+      <h3 class="text-center">Try and guess a random number between 1 and 100.<br>
+        You have 5 attempts to guess the right number.            
+      </h3><br>
+      <div id="main" class="bg-info text-center">
+        <form id="form">
+          <label id="guess" class="display-5">Guess a number</label><br><br>
+          <input type="text" id="screen" required name="screen" ><br><br><br>
+        </form>
+        <button id="btn" >Submit guess</button><br><br>
+        <p class="para">Turns Left  : <span id="turn">5</span></p><br>           
+        <h2 id="message" class="text-white" style="background-color: rgb(123, 48, 86);"></h2>
+      </div>
+    </div>
+    
+    <!-- Bootstrap JavaScript Libraries -->
+    <script src="./app.js" type="text/JavaScript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
+  </body>
+</html>
