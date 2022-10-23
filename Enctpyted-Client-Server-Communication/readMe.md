@@ -29,6 +29,8 @@
 5. Execute the client code by providing any IP and the same port nummber used in execution of server. 
 6. Either use local host(127.0.0.1) to communicate on the same host or use 192.168.xxx.xx to communicate over a locally conected two computers.
 7. User ssldump to monitor the traffic. 
+
+### Command Line Arguments
 ##### Creating OpenSSL certificates:
   ```bash
   openssl req -x509 -nodes -days 365 -newkey rsa:1024 -keyout cert_key.pem -out cert_file.pem
@@ -57,7 +59,7 @@
   ```
 
 
-#### License 
+### License 
 The scripts and documentation in this project are released under the MIT License.
 
 
