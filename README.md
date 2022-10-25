@@ -83,6 +83,13 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/muhammadumar1-ux">
+            <img src="https://avatars.githubusercontent.com/u/83165778?v=4" width="100;" alt="muhammadumar1-ux"/>
+            <br />
+            <sub><b>Muhammad Umar</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Tameem-623">
             <img src="https://avatars.githubusercontent.com/u/79134847?v=4" width="100;" alt="Tameem-623"/>
             <br />
