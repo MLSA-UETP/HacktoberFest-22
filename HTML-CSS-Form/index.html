@@ -1,0 +1,83 @@
+<html>
+<head>
+    <title>Bio Data</title>
+    <link rel="" href="" type="">
+    </head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <style>
+        body{background-image: url(bgb.jpg); background-position: center; background-repeat: no-repeat; background-size: cover; font-family: sans-serif;margin: 0;padding: 0;}
+        form {padding: 30px; background: rgb(0,0,0,0.2);position: absolute;transform: translate(-50%,-50%);top: 50%;left: 50%;box-sizing: border-box;width: 405px;height: 550px;}
+        h1{text-align: center; color: #ffffff;font-weight: bold;font-family: cursive;}
+        label{padding: 0; margin: 0; color: white;}
+        input{width: 100%;}
+        .button{background-color: #00469b;color:white;border-radius: 17px;border:none;cursor: pointer;height: 30px;}
+</style>
+    
+    <form method="get">
+         <h1>BioData</h1>
+    
+        <label for="i1"><b>Name:</b>
+    <input id="i1" name="name" type="text" placeholder="Enter Name"></label><br><br>
+        
+        
+        <label for="i2"><b>Reg no:</b></label>
+    <input id="i2" name="Reg no" type="text" placeholder="Enter Registration Number"><br><br>
+        
+        
+        <label for="i3"><b>Username:</b>
+        </label>
+    <input id="i3" name="username" type="text" placeholder="Enter a Valid Username/Email"><br><br>
+       
+        
+        <label for="i4"><b>Password:</b></label>
+    <input id="i4" name="pwd" type="password" placeholder="Type Passwrd" ><br><br>
+        
+        
+        <label for="i5"><b>Gender</b></label>
+    <input id="i5" name="gender" list="gender" type="text" placeholder="Select Gender">
+        <datalist id="gender">
+        <option>Male</option>
+        <option>Female</option>
+        </datalist><br><br>
+        
+   
+        <label for="i6"><b>Courses: </b>Computer Fundamentals</label>
+    <input id="i6" name="course" type="checkbox" style="word-wrap: break-word;width: auto;align-self: flex-end;">
+       
+        
+        <label for="i7" style="padding-left: 17%;">&nbsp;&nbsp;Computer Fundamentals Lab</label> 
+    <input id="i7" name="course" type="checkbox" style="word-wrap: break-word;width: auto;"><br>
+       
+        
+        <label for="i8">Are the courses easy?</label>
+    <input id="i8" name="easy" type="radio" style="word-wrap: break-word;width: auto;align-self: flex-end;"><br><br>    
+        
+    <input id="i9" name="button" type="button" value="Click here to Submit" class="button" onclick="show()">
+        <br><br>
+    
+    </form>
+
+    <p id="o1" style="color: white;padding-top:60px;padding-left: 50px; "></p>
+    <p id="o2" style="color: white;padding-left: 50px;"></p>
+    <p id="o3" style="color: white;padding-left: 50px;"></p>
+    <p id="o4" style="color: white;padding-left: 50px;"></p>
+    <p id="o5" style="color: white;padding-left: 50px;"></p>
+    
+<script>
+    function show(){
+     var x=document.getElementById("i1").value;
+   document.getElementById("o1").innerHTML= x;
+        var y=document.getElementById("i2").value;
+   document.getElementById("o2").innerHTML= y;
+        var z=document.getElementById("i3").value;
+   document.getElementById("o3").innerHTML= z;
+        var a=document.getElementById("i4").value;
+   document.getElementById("o4").innerHTML= a;
+        var b=document.getElementById("i5").value;
+   document.getElementById("o5").innerHTML= b;
+        }
+       </script>
+    
+    </body>
+</html>
