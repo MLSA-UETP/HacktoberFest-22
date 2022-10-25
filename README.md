@@ -114,7 +114,7 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         <a href="https://github.com/Radiosnack">
             <img src="https://avatars.githubusercontent.com/u/106529748?v=4" width="100;" alt="Radiosnack"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Radiosnack</b></sub>
         </a>
     </td></tr>
 <tr>
