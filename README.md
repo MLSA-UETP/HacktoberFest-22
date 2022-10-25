@@ -54,6 +54,13 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hasn20">
+            <img src="https://avatars.githubusercontent.com/u/115350907?v=4" width="100;" alt="hasn20"/>
+            <br />
+            <sub><b>Muhammad Hassaan</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/aimalexe">
             <img src="https://avatars.githubusercontent.com/u/94559553?v=4" width="100;" alt="aimalexe"/>
             <br />
@@ -66,15 +73,15 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
             <br />
             <sub><b>AWAIS SADDIQUI</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AkramUllahKhan">
             <img src="https://avatars.githubusercontent.com/u/90589314?v=4" width="100;" alt="AkramUllahKhan"/>
             <br />
             <sub><b>AkramUllahKhan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/saadshah8">
             <img src="https://avatars.githubusercontent.com/u/115416797?v=4" width="100;" alt="saadshah8"/>
@@ -109,15 +116,15 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
             <br />
             <sub><b>Muhammad Umar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Radiosnack">
             <img src="https://avatars.githubusercontent.com/u/106529748?v=4" width="100;" alt="Radiosnack"/>
             <br />
             <sub><b>Radiosnack</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/WaliyaRizwan">
             <img src="https://avatars.githubusercontent.com/u/116026957?v=4" width="100;" alt="WaliyaRizwan"/>
