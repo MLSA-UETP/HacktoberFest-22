@@ -40,6 +40,42 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Tameem-623">
+            <img src="https://avatars.githubusercontent.com/u/79134847?v=4" width="100;" alt="Tameem-623"/>
+            <br />
+            <sub><b>Tameem Ud Din</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Mosaddiq-Billah">
+            <img src="https://avatars.githubusercontent.com/u/75493489?v=4" width="100;" alt="Mosaddiq-Billah"/>
+            <br />
+            <sub><b>Mosaddiq Billah</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hasn20">
+            <img src="https://avatars.githubusercontent.com/u/115350907?v=4" width="100;" alt="hasn20"/>
+            <br />
+            <sub><b>Muhammad Hassaan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aimalexe">
+            <img src="https://avatars.githubusercontent.com/u/94559553?v=4" width="100;" alt="aimalexe"/>
+            <br />
+            <sub><b>Aimal Khan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/awaissaddiqui">
+            <img src="https://avatars.githubusercontent.com/u/101595985?v=4" width="100;" alt="awaissaddiqui"/>
+            <br />
+            <sub><b>AWAIS SADDIQUI</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/AkramUllahKhan">
             <img src="https://avatars.githubusercontent.com/u/90589314?v=4" width="100;" alt="AkramUllahKhan"/>
             <br />
@@ -54,27 +90,19 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Mosaddiq-Billah">
-            <img src="https://avatars.githubusercontent.com/u/75493489?v=4" width="100;" alt="Mosaddiq-Billah"/>
+        <a href="https://github.com/QaziAhmad77">
+            <img src="https://avatars.githubusercontent.com/u/107860183?v=4" width="100;" alt="QaziAhmad77"/>
             <br />
-            <sub><b>Mosaddiq Billah</b></sub>
+            <sub><b>Qazi Ahmad</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/awaissaddiqui">
-            <img src="https://avatars.githubusercontent.com/u/101595985?v=4" width="100;" alt="awaissaddiqui"/>
+        <a href="https://github.com/abd-ar">
+            <img src="https://avatars.githubusercontent.com/u/87899654?v=4" width="100;" alt="abd-ar"/>
             <br />
-            <sub><b>AWAIS SADDIQUI</b></sub>
+            <sub><b>Abd</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/aimalexe">
-            <img src="https://avatars.githubusercontent.com/u/94559553?v=4" width="100;" alt="aimalexe"/>
-            <br />
-            <sub><b>Aimal Khan</b></sub>
-        </a>
-    </td></tr>
-<tr>
     <td align="center">
         <a href="https://github.com/M-Uzaif">
             <img src="https://avatars.githubusercontent.com/u/116589718?v=4" width="100;" alt="M-Uzaif"/>
@@ -88,12 +116,13 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
             <br />
             <sub><b>Muhammad Umar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
-        <a href="https://github.com/Tameem-623">
-            <img src="https://avatars.githubusercontent.com/u/79134847?v=4" width="100;" alt="Tameem-623"/>
+        <a href="https://github.com/Radiosnack">
+            <img src="https://avatars.githubusercontent.com/u/106529748?v=4" width="100;" alt="Radiosnack"/>
             <br />
-            <sub><b>Tameem Ud Din</b></sub>
+            <sub><b>Radiosnack</b></sub>
         </a>
     </td>
     <td align="center">
