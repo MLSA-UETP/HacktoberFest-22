@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "db": {
+    "username": "root",
+    "password": null,
+    "name": "node-boiler-plate",
+    "host": "127.0.0.1"
+  }
+}
