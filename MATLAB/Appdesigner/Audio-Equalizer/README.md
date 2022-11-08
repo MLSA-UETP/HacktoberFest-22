@@ -1,9 +1,8 @@
-<!-- <br>
+<br>
 <p align="center">
-    <img src="https://github.com/MLSA-UETP/HacktoberFest-22/blob/main/Audio-Equalizer/EQ_demo.png/" alt="Project Demo">
+    <img src="EQ_demo.png/" alt="Project Demo">
 </p>
-<br> -->
-![Project Demo](/EQ_demo.png?raw=true)
+<br> 
 
 # Grpahic Audio Equalizer
 
