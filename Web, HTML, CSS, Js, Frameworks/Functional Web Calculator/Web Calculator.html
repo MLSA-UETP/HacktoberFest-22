@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Web Calculator</title>
+    <link rel="icon" type="image/icon" href="1.jpg">
+
+    <style>
+      form{
+        padding: 10px;
+      }
+     
+    .a{
+      background-size: 315px;        
+      border-radius: 50px;
+      background-image: url(3.jpeg);
+      background-position: center;
+      margin-top: 20px;
+      margin-left: 255px;
+      margin-right: 255px;
+      padding: 70px;
+     }
+        
+    .b{
+       background-color: #D6EAF8;
+       margin-top: 20px;
+       margin-left: 350px;
+       margin-right: 350px;
+       border-radius: 20px;
+     } 
+    </style>
+
+    <script>
+      function logic(){
+        var x = parseInt(document.getElementById("num12").value);
+        var y = parseInt(document.getElementById("num13").value);
+        var z = document.getElementById("sym12").value;
+        if(z == "+"){document.getElementById("result1").innerHTML = x+y;}
+        else if(z == "-"){document.getElementById("result1").innerHTML = x-y;}
+        else if(z == "*"){document.getElementById("result1").innerHTML = x*y;}
+        else if(z == "/"){document.getElementById("result1").innerHTML = x/y;}
+        else {document.getElementById("result1").innerHTML = "Not Valid"}
+         }              
+    </script>
+</head>
+    
+<body bgcolor="#97C1B8">
+  <fieldset class="a">
+  <form align="center">
+  
+      <font face="Castellar" color="#2471A3 ">
+          <h1 align="center"><u>MY CALCULATOR</u></h1> 
+      </font>
+
+    <label for="num1">
+      <input type="text" name="num1" class="num1" id="num12" placeholder="Number1">
+    </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    <label for="sym1">
+      <input type="text" name="sym1" class="sym1" id="sym12" placeholder="Symbol">
+    </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    <label for="num2">
+      <input type="text" name="num2" class="num2" id="num13" placeholder="Number2">
+    </label>
+      
+    <br>
+    <br>
+    
+      <input type="button" onclick="logic()" value="CALCULATE">
+  
+      </form>
+</fieldset>
+    
+    <br>
+    <br>
+   
+    <fieldset class="b">
+        
+        <font face="Bahnschrift" color="#2B65B1">
+        <h3 align="center"><u>Calculated Value</u></h3>
+            
+ <p id="result1" align="center"></p>
+        </font>
+        
+    </fieldset>
+</body>
+</html>
