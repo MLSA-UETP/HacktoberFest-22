@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <img src="https://github.com/MLSA-UETP/HacktoberFest-22/blob/main/HTML-CSS-Form/demo.png" alt="Form Demo">
+    <img src="demo.png" alt="Form Demo">
 </p>
 <br>
 
