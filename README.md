@@ -54,10 +54,10 @@ We as members of MLSA UET peshawar want to keep everything fair, in order and re
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/abd-ar">
-            <img src="https://avatars.githubusercontent.com/u/87899654?v=4" width="100;" alt="abd-ar"/>
+        <a href="https://github.com/iabdr">
+            <img src="https://avatars.githubusercontent.com/u/87899654?v=4" width="100;" alt="iabdr"/>
             <br />
-            <sub><b>Abd</b></sub>
+            <sub><b>Raja Abdullah</b></sub>
         </a>
     </td>
     <td align="center">
